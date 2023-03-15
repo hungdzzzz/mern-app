@@ -1,0 +1,68 @@
+.header{
+    background-image: url('/public/background.png');
+    background-size: cover;
+   height: 100vmin;
+
+    background-repeat: no-repeat;
+    background-position:top
+}
+
+.form-container{
+    float: right;
+    margin-top: 10px;
+    margin-right: -3px;
+    text-align: center;
+    padding-right: 500px;
+    margin: auto;
+    
+}
+
+.hr{
+    border-left: 3px solid white;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+    margin-left: -55px;
+    margin-top: 120px;
+    margin-bottom: auto;
+}
+.Name{
+    color: aliceblue;
+    display: flex;
+    
+    padding-left: 500px;
+    
+}
+.text{
+    color: aliceblue;
+    size: 200px;
+    padding-right: 400px;
+    padding-top: 200px;
+    
+}
+
+.form {
+    color: aliceblue;
+    size: 200px;
+    padding-left: 250px;
+    padding-top: 100px;
+    
+}
+
+.Password{
+    height: 20px;
+    margin: 10px;
+}
+
+.form-group{
+    margin: 20px;
+}
+.form-control{
+    width: 250px;
+}
+.bt{
+    width: 250px;
+    background-color: blue;
+    color: aliceblue;
+    margin-top: 20px;
+}

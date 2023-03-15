@@ -1,0 +1,19 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: "Segoe UI";
+	box-sizing: border-box;
+}
+.search-container {
+	margin: 1rem 0;
+	width: 50%;
+}
+
+.search-container input {
+	width: 100%;
+	padding: 10px;
+	font-size: 1rem;
+	outline: none;
+	border: 1px solid #ccc;
+}
